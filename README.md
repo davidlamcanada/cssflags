@@ -6,8 +6,6 @@ https://coursework.vschool.io/css-flags/
 
 ### Instructions
 
-<img src="https://coursework.vschool.io/content/images/size/w2000/2017/08/World_Flags_Banner.jpg" alt="country flags placed together">
-
 Build the following flags in pure HTML and CSS, no images allowed. No need to make them responsive. The "aspect ratios" listed below refer to the height:width aspects. E.g. France 🇫🇷 is 2:3, so if you make it 200px in height, it should be 300px in width. With Germany 🇩🇪 (3:5), 200px height would be 333px in width (200px × 5 ÷ 3 = 333.3333px).
 
 
