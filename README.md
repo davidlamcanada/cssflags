@@ -54,7 +54,7 @@ Each flag is easiest organized in code as a container with children. Nesting div
     <div class="color-two"></div>
 </div>
 
-Use the position css property as a last resort. Width, height, and nesting your elements thoughtfully will get you a long way.
+Use the <strong>position</strong> css property as a last resort. Width, height, and nesting your elements thoughtfully will get you a long way.
 
-display: inline-block will be important to give to elements you are trying to control the width of.
+<strong>display: inline-block</strong> will be important to give to elements you are trying to control the width of.
 
